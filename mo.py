@@ -122,12 +122,12 @@ with mp_hands.Hands(static_image_mode=True,
                         last_event = None
 
                 #screen_pos = np.interp(fsize, ssize, index_tipm)
+               
                 try:
-
                     screen_pos0 = ssize[0]*index_tip[0]/fsize[0]
                     screen_pos1 = ssize[1]*index_tip[1]/fsize[1]
                 except TypeError:
-                    print("Oops! Not valid lol ")
+                    print("Oops Not valid lol ")
 
 
                 #print(screen_pos0, screen_pos1)
