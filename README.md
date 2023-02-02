@@ -35,6 +35,10 @@ We avoided using autopy since it doesn't run on all Python versions (Python 2.7,
     
 Please, check this documentation if you have never worked with Mediapipe: https://google.github.io/mediapipe/solutions/hands
 
+Python Object Oriented Programming course: https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc
+
+Numpy tuto for beginners : https://www.youtube.com/watch?v=QUT1VHiLmmI
+
 ![My Image](HandLandmarks.png)
 
 
