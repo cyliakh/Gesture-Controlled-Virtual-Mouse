@@ -31,6 +31,8 @@ We avoided using autopy since it doesn't run on all Python versions (Python 2.7,
     
     4- Mouse
     
+    5- Time
+    
 Please, check this documentation if you have never worked with Mediapipe: https://google.github.io/mediapipe/solutions/hands
 
 ![My Image](HandLandmarks.png)
